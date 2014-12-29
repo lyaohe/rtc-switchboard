@@ -4,7 +4,7 @@
   "description": "Signalling for rtc-io components using primus",
   "main": "index.js",
   "scripts": {
-    "start": "node --nouse-idle-notification server.js",
+    "start": "node app.js",
     "test": "node test/all.js",
     "gendocs": "gendocs > README.md"
   },
